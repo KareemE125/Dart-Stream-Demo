@@ -3,7 +3,8 @@
 
 **credits for:** _"Programming Addict"_ YouTube Channel
 
-============================================================================================
+IN Practise Do NOT forget to close the stream calling "close()" method
+=================================================================================
 
 
 ## Getting Started
