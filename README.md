@@ -1,4 +1,6 @@
 # streams_rx_dart
+**For explanation check out this playlist:** https://youtube.com/playlist?list=PL_Wj0DgxTlJc8E3ulwdekyVI4Wc819azh
+**credits for:** _"Programming Addict"_ YouTube Channel
 
 A new Flutter project.
 
